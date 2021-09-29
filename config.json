@@ -1,0 +1,5 @@
+{
+    "TOKEN": "enter token here" ,
+    "PREFIX": "$",
+    "COOLDOWN": "generator cooldown write any number for example 2 is 2 minutes" 
+}
